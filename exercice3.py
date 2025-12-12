@@ -2,7 +2,7 @@
 
 # Supposons que la variable liste contient des chaînes
 liste = ['1', '2', '3', '4']
-
+print("nomjour")
 # Créer une liste vide pour stocker les entiers
 liste_entiers = []
 
